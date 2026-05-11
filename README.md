@@ -2,3 +2,7 @@ Object detection project to explore technicalities around object detection in vi
 
 I use C++ for screen capture and python for object detection and to run the core program.
 
+Roboflow for image tagging and YOLO to train the model.
+
+
+
